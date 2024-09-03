@@ -5,7 +5,7 @@ def solution_station_5(name):
     name_lt = {'Aya': 5, 'Bissola': 1, 'Shriya': 5, 'Ava': 1,
                'Sean': 2, 'Maja': 2, 'Gadis': 3, 'Dorottya': 4,
                'Lotte': 4, 'Gabriella': 3, 'Alejandro': 3,
-               'Emma-Rose': 2, 'Rasmus': 1, 'Lumi': 5, 'Christal': 1,
+               'Emma': 2, 'Rasmus': 1, 'Lumi': 5, 'Christal': 1,
                'Irene': 2, 'Anouk': 5, 'Volodymyr': 4, 'Catherin': 1,
                'Alva': 4, 'Roy': 3, 'Nikko': 3, 'Ana': 2, 'Walter': 5,
                'Brendan': 4, 'Joeben': 5, 'Philine': 1, 'Maria': 1,
