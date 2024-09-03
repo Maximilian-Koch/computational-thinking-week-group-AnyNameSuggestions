@@ -10,7 +10,7 @@ english_to_japanese = {
     'Sunday': '日曜日'
 }
 
-def solution_station_2(date_str):
+def solution_station_2(date_str : str) -> str:
     # Parse the input string to a date object
     date_obj = datetime.strptime(date_str, '%Y-%m-%d')
     
