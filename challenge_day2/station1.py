@@ -1,6 +1,6 @@
 # Fibo
 
-def solution_station_1(n):
+def solution_station_1(n : int) -> int:
     a = 0
     b = 1
     if n < 0:
